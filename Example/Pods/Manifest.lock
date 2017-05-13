@@ -1,0 +1,19 @@
+PODS:
+  - NVActivityIndicatorView (3.6.1)
+  - ONProgressHUD (0.1.0):
+    - NVActivityIndicatorView
+
+DEPENDENCIES:
+  - ONProgressHUD (from `../`)
+
+EXTERNAL SOURCES:
+  ONProgressHUD:
+    :path: ../
+
+SPEC CHECKSUMS:
+  NVActivityIndicatorView: 9f52a7f84bf5c6a798722c450fe3c198e01c56ed
+  ONProgressHUD: 6a24ad119246dfbdcfc08c884fe4cbd0728c53af
+
+PODFILE CHECKSUM: 62146d75cb2ca1f05d6707e73d0a1d62862e33e8
+
+COCOAPODS: 1.2.0

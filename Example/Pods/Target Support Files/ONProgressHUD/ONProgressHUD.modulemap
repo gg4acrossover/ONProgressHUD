@@ -1,0 +1,6 @@
+framework module ONProgressHUD {
+  umbrella header "ONProgressHUD-umbrella.h"
+
+  export *
+  module * { export * }
+}
