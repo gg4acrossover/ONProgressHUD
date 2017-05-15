@@ -5,6 +5,12 @@
 [![License](https://img.shields.io/cocoapods/l/ONProgressHUD.svg?style=flat)](http://cocoapods.org/pods/ONProgressHUD)
 [![Platform](https://img.shields.io/cocoapods/p/ONProgressHUD.svg?style=flat)](http://cocoapods.org/pods/ONProgressHUD)
 
+Simple progress hud, wrapper with NVActivityIndicatorView.
+Very easy to use.
+
+show: ONProgressHUD.show()
+hide: ONProgressHUD.hide()
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
