@@ -22,7 +22,7 @@ pod "ONProgressHUD"
 
 ## Author
 
-gg4acrossover@gmail.com, gg4acrossover@gmail.com
+gg4acrossover@gmail.com
 
 ## License
 
